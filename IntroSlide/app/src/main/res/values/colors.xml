@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <!--Button style-->
+    <color name="colorGradientStart">#D52126</color>
+    <color name="colorGradientEnd">#FF402D</color>
+
+    <!--Tab and screen text-->
+    <color name="colorTabIndicator">#c0c0c0</color>
+    <color name="colorIntroTitle">#000000</color>
+    <color name="colorIntroDescription">#656565</color>
+</resources>
